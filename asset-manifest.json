@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "/particlesApp/static/js/main.df07cbe4.js",
+    "main.js": "/particlesApp/static/js/main.f4f4ed9c.js",
     "static/css/939.853b638c.chunk.css": "/particlesApp/static/css/939.853b638c.chunk.css",
-    "static/js/939.fd1dbbe8.chunk.js": "/particlesApp/static/js/939.fd1dbbe8.chunk.js",
+    "static/js/939.ffde32ac.chunk.js": "/particlesApp/static/js/939.ffde32ac.chunk.js",
     "static/js/572.5dbd13d2.chunk.js": "/particlesApp/static/js/572.5dbd13d2.chunk.js",
     "index.html": "/particlesApp/index.html",
-    "main.df07cbe4.js.map": "/particlesApp/static/js/main.df07cbe4.js.map",
+    "main.f4f4ed9c.js.map": "/particlesApp/static/js/main.f4f4ed9c.js.map",
     "939.853b638c.chunk.css.map": "/particlesApp/static/css/939.853b638c.chunk.css.map",
-    "939.fd1dbbe8.chunk.js.map": "/particlesApp/static/js/939.fd1dbbe8.chunk.js.map",
+    "939.ffde32ac.chunk.js.map": "/particlesApp/static/js/939.ffde32ac.chunk.js.map",
     "572.5dbd13d2.chunk.js.map": "/particlesApp/static/js/572.5dbd13d2.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.df07cbe4.js"
+    "static/js/main.f4f4ed9c.js"
   ]
 }
